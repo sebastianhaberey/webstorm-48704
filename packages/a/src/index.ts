@@ -1,1 +1,1 @@
-export {foo} from "./A"
+export * from "./A"
