@@ -2,7 +2,7 @@
   "name": "a",
   "version": "1.0.0",
   "private": true,
-  "types": "dist/index.d.ts",
+  "types": "dist/src/index.d.ts",
   "devDependencies": {
     "typescript": "4.1.3"
   }
